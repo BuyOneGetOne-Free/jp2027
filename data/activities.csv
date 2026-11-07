@@ -1,0 +1,62 @@
+
+date,segment,order,team,title,detail,start_time,end_time,link,map_query
+2/15,morning,1,ALL,早餐自理,出發前自行用餐,,,,
+2/15,morning,2,ALL,桃園機場捷運集合,於機場捷運刷票閘門前集合,,,,
+2/15,morning,3,ALL,搭乘桃園機場捷運,預計08:00或08:15搭乘直達車前往桃園機場第一航廈；班次及集合站待確認,08:00,,,
+2/15,morning,4,ALL,桃園機場報到,自行前往機場者於國泰航空櫃台集合；櫃台以當日機場公告為準,,,,
+2/15,morning,5,ALL,CX564 台灣飛往大阪,國泰航空TPE至KIX；11:15起飛；機上提供午餐,11:15,14:45,,
+2/15,noon,1,ALL,CX564 直接起飛,飛機上有賭博遊戲,11:15,14:45,,
+2/15,afternoon,1,ALL,抵達關西國際機場,14:45抵達日本當地時間；辦理入境及領取行李,14:45,,,
+2/15,afternoon,2,ALL,機場巴士前往OCAT,搭乘機場巴士前往大阪難波OCAT；車資1400日圓；大門出去左轉直衝terminal-11,,,,
+2/15,afternoon,3,ALL,交通IC卡準備,購買或確認可使用的交通IC卡；預計儲值2000日圓；實體卡種類待確認,,,,
+2/15,afternoon,4,ALL,APA飯店入住,APA Hotel and Resort Osaka Namba Ekimae Tower；辦理入住並放置行李,,,,APA Hotel and Resort Osaka Namba Ekimae Tower
+2/15,afternoon,5,ALL,飯店休息,整理行李並稍作休息,,,,
+2/15,night,1,ALL,松屋晚餐,預計吃松屋；若路線不順則更換附近餐廳,,,,https://reurl.cc/ln1oYY
+2/15,night,2,ALL,道頓堀散步,欣賞大阪夜景與固力果跑跑人招牌屍體,,,,
+2/15,night,3,ALL,心齋橋購物,逛心齋橋商店街及周邊店家,,,,
+2/15,night,4,ALL,Lawson購買點心,自由選擇是否購買飲料與宵夜,,,,
+2/16,morning,1,ALL,麥當勞早餐,07:00由颶風叔叔購買麥當勞早餐,07:00,,,
+2/16,morning,2,ALL,前往大阪難波站,08:00從飯店出發前往近鐵大阪難波站,08:00,,,
+2/16,morning,3,ALL,近鐵前往奈良,大阪難波站搭乘近鐵奈良線前往近鐵奈良站；預估40分鐘；車資680日圓,,,,https://reurl.cc/ln1oaj
+2/16,morning,4,ALL,奈良公園,預計09:00開始散步；觀賞鹿群及公園景色,09:00,,,https://reurl.cc/1l9Z8Q
+2/16,morning,5,ALL,奈良商店街,逛奈良當地商店街與特色店家,,,,https://reurl.cc/3yzokO
+2/16,morning,6,ALL,東大寺,參觀東大寺周邊；有興趣再現場購票入內,,,,
+2/16,noon,1,ALL,奈良午餐,預計12:30至13:30在近鐵奈良站周邊用餐,12:30,13:30,,https://reurl.cc/DY0yYd
+2/16,afternoon,1,ALL,奈良返回大阪,搭乘近鐵返回大阪難波；預估車資680日圓,,,,
+2/16,afternoon,2,ALL,返回飯店休息,將購物品放回飯店並休息,,,,
+2/16,afternoon,3,ALL,前往天王寺,從JR難波搭乘JR大和路線前往天王寺；預估車資180日圓,,,,
+2/16,night,2,ALL,天王寺壽司郎晚餐,吃吃壽司,,,,https://reurl.cc/vGMd4a
+2/16,night,3,ALL,HARUKAS 300夜景,登上阿倍野HARUKAS 300觀賞大阪夜景；預估門票2200日圓,,,,https://reurl.cc/5Xm5ZR
+2/16,night,4,ALL,返回飯店,從天王寺返回JR難波；預估車資180日圓,,,,
+2/17,morning,1,ALL,前往Komeda咖啡,07:15從飯店出發；在Komeda Coffee享用早餐,07:15,,,https://reurl.cc/QNMLo2
+2/17,morning,2,ALL,前往神戶三宮,四橋線難波至西梅田240日圓；步行轉JR大阪至JR三宮420日圓；總計660日圓,,,,
+2/17,morning,3,ALL,前往北野異人館,從三宮步行或搭乘公車或計程車前往北野異人館,,,,https://reurl.cc/rkeDqZ
+2/17,morning,4,ALL,北野異人館散步,參觀神戶北野異人館街區及洋式建築；和服租借,,,,
+2/17,noon,5,ALL,三宮商圈,從北野往下坡前往三宮商圈；逛街及小型購物+吃飯,,,,https://reurl.cc/k961Kr
+2/17,afternoon,1,ALL,南京町,在神戶南京町逛逛及小吃,,,,https://reurl.cc/90lG8O
+2/17,afternoon,2,ALL,美利堅公園,欣賞神戶港口風景及拍照,,,,https://reurl.cc/rkeDWk
+2/17,afternoon,3,ALL,Kobe Harborland,前往神戶港灣樂園散步及欣賞海港景色,,,,
+2/17,night,1,ALL,神戶燒肉晚餐,預計在Harborland附近吃神戶牛燒烤；餐廳及預算待確認,,,,
+2/17,night,2,ALL,燒肉備案,若有人累累爆氣可先返回難波並改吃飯店附近燒肉放題,,,,
+2/17,night,3,ALL,神戶返回大阪,從JR神戶站搭車至JR大阪站；步行轉四橋線西梅田至難波；原估車資700日圓,,,,
+2/17,night,4,ALL,飯店休息與自由活動,返回飯店休息；有興趣可逛Namba Walk地下街,,,,
+2/18,morning,1,ALL,共同早餐,可選APA飯店早餐3190至3490日圓或蒙特利飯店早餐4500日圓；也可改吃咖啡廳或超商,,,,
+2/18,morning,2,A,前往黑門市場,從namba walk走路去黑門市場逛逛,,,,
+2/18,morning,3,A,大耳狗咖啡廳,吃或喝,,,,https://reurl.cc/MWe0p4
+2/18,afternoon,1,A,百貨公司,逛心齋橋parco,,,,https://reurl.cc/Wznr5y
+2/18,afternoon,2,A,返回飯店,購物結束後返回APA飯店；準備與B隊會合,,,,
+2/18,afternoon,3,ALL,通天閣,搭乘JR到新今宮站前往通天閣逛逛,,,,https://reurl.cc/Gg1xzZ
+2/18,morning,2,B,前往本町站,早餐後搭乘大阪Metro至本町站；預估車資190日圓,,,,
+2/18,morning,3,B,前往HAJL,從本町站步行前往HAJL,,,,
+2/18,morning,4,B,HAJL校園參觀,參觀校園,,,,
+2/18,noon,1,B,B隊午餐,自行選擇餐廳用餐,,,,
+2/18,afternoon,2,B,與A隊會合,午餐後與A隊會合,,,,
+2/19,morning,1,ALL,超商早餐,07:00購買早餐,07:00,,,
+2/19,morning,2,ALL,難波八阪神社,07:30從飯店步行前往難波八阪神社,08:45,,,https://reurl.cc/OQO47X
+2/19,morning,3,ALL,返回飯店領行李,預計10:30返回飯店領取行李並確認隨身物品,10:30,,,
+2/19,morning,4,ALL,前往OCAT,從飯店前往OCAT巴士總站；預計搭乘中午前往機場的巴士,,,,
+2/19,noon,1,ALL,機場巴士前往關西機場,目標13:00前抵達關西機場；原規劃12:00前從OCAT出發；實際班次待確認,,,,
+2/19,noon,2,ALL,關西機場午餐,在機場用餐；回程機上僅提供點心,,,,
+2/19,afternoon,1,ALL,CX565大阪飛往台灣,國泰航空KIX至TPE；預計16:15起飛,16:15,18:30,,
+2/19,night,1,ALL,抵達桃園機場,預計18:30抵達台灣；辦理入境及領取行李,18:30,19:20,,
+2/19,night,2,ALL,返回住處,預計19:20完成入境；可搭機場捷運至台北車站或搭國光及統聯客運前往朝馬站,19:20,,,
